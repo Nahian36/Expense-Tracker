@@ -1,0 +1,1 @@
+I need to install react-native-svg with react-native-chart-kit to make it work
